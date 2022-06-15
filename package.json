@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-padding",
+  "version": "1.0.0",
+  "description": "Responsive Padding styles and classes for Bootstrap 5. Examples of padding left, right, top, bottom, between columns and rows, grid padding, RTL support & more.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-padding.git"
+  },
+  "keywords": [
+    "bootstrap", 
+    "padding", 
+    "responsive-design", 
+    "spacing", 
+    "gutters", 
+    "bootstrap5", 
+    "bootstrap5-template"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-padding/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/padding/"
+}

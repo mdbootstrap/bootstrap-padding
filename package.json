@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-padding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive Padding styles and classes for Bootstrap 5. Examples of padding left, right, top, bottom, between columns and rows, grid padding, RTL support & more.",
   "main": "basic.html",
   "scripts": {
